@@ -1,0 +1,17 @@
+html,
+body,
+ul {
+  margin: 0;
+  padding: 2; }
+
+div {
+  background-color: red; }
+  div .mainheader {
+    color: yellow; }
+  div p {
+    color: black; }
+  div .box {
+    text-decoration: none;
+    color: yellow; }
+
+/*# sourceMappingURL=index.css.map */

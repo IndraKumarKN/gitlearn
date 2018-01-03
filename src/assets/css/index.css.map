@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;EAAK;EAGJ,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;;ACAX,GAAG;EACF,gBAAgB,EAAE,GAAG;EAErB,eAAW;IACV,KAAK,EARG,MAAM;EAUf,KAAC;IACA,KAAK,EAAE,KAAK;EAEb,QAAI;IAEH,eAAe,EAAE,IAAI;IAGrB,KAAK,EAlBG,MAAM",
+"sources": ["../sass/reset.sass","../sass/index.sass"],
+"names": [],
+"file": "index.css"
+}
